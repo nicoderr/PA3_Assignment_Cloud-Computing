@@ -1,0 +1,14 @@
+Script started on 2023-10-24 17:57:22-05:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="87" LINES="24"]
+[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ exit./linsort.sh File16G File16GSorted [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pchmod +x linsort.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ chmod +x linsort.shexit[K./linsort.sh File16G File16GSorted [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@64G File16GSorted [A]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PGSorted
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PGSorted6GSorted4GSorted [A]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lSort Time : 5146.232 s
+Overall I/O Throughput : 11.86 MB/sec
+Overall CPU Utilization: 7.00 %
+Average Memory Utilization: 50.00 GB
+[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-24 18:50:10-05:00 [COMMAND_EXIT_CODE="0"]

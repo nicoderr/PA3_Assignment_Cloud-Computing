@@ -1,0 +1,11 @@
+Script started on 2023-10-24 17:42:45-05:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="87" LINES="24"]
+[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ exit./linsort.sh File4G File4GSorted[13Pchmod +x linsort.sh
+[?2004l[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ chmod +x linsort.shexit[K./linsort.sh File4G File4GSorted[1PGSorted1GSorted6GSorted[1P[1@16G File16GSorted [A]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lSort Time : 1155.510 s
+Overall I/O Throughput : 13.20 MB/sec
+Overall CPU Utilization: 4.00 %
+Average Memory Utilization: 50.00 GB
+[?2004h]0;deep_vm_1@deepvm1-VirtualBox: ~/gensort-linux-1.5/64[01;32mdeep_vm_1@deepvm1-VirtualBox[00m:[01;34m~/gensort-linux-1.5/64[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-24 17:55:06-05:00 [COMMAND_EXIT_CODE="0"]
