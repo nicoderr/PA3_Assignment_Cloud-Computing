@@ -2,10 +2,10 @@ CC = gcc
 CFLAGS = -Wall -O2
 LIBS = -lpthread
 
-# Target executable name
+# Name of Executable Target
 TARGET = sort_program
 
-# Source files
+# Source file to execute sorting
 SRCS = mysort.c
 
 all: $(TARGET)
@@ -20,4 +20,3 @@ clean:
 	rm -f $(TARGET)
 
 .PHONY: all run clean
-
